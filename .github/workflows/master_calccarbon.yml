@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CalcCarbon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73C5749E156245638ABC04D1A8FB3C5E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF6934A90C064B8889EE9921C12BA075 }}
