@@ -36,4 +36,4 @@ Edit the app.py code as needed, the local running version will allow code to be 
 
 ![source changed refresh](https://user-images.githubusercontent.com/29428448/165065560-4545a7dd-8c9e-4f5b-8f31-564d0eb99d2b.png)
 
-
+When satisfied rebuild and version the docker image. 
